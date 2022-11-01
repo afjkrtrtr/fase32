@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PZcklK99cX8Fi/DITL46KkGoWGR3I8XJ35iCHszB8cD81nx595cDJXY8hdsFv2xpJ86Sr2RB7TpkEDl9HR7qTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abuel\\Downloads\\porgram_juanfgabrielriveratamayoi\\porgram_juanfgabrielriveratamayoi\\porgram_juanfgabrielriveratamayoi\\crudFase3\\crudFase3\\crud_fase3\\crud_fase3\\crud_fase3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abuel\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
